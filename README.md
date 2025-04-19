@@ -94,7 +94,7 @@ Make sure you have Node.js, NPM, and a MySQL Server installed.
 With MySQL, create a database. If you are lazy, copy this command in insert into the MySQL terminal. ``CREATE DATABASE `chitchan`;``
 
 * Run `npm install`
-* Run `node app.js` and you will have your own instance of 4chan running on your localhost! 
+* Run `node app.js` and you will have your own instance of chitchan running on your localhost! 
 
 
 
